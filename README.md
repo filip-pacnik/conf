@@ -1,2 +1,2 @@
-# conf
-'conf' repo >> Arduino IO configuration files
+# 'conf-master.repo'
+'conf-master.repo' >> Arduino ( architectures : * ) IO configuration library
