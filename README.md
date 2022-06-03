@@ -1,2 +1,2 @@
 # 'conf-master.repo'
-'conf-master.repo' >> Arduino ( architectures : * ) IO configuration library
+'conf-master.repo' >> * ino IO configuration library
